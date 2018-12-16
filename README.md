@@ -1,5 +1,7 @@
 # My Deep Learning projects
-Before reading the blogs!! please download this Chrome plugin for RTL reading the blog posts:
+# Before reading the blogs!! 
+
+please download this Chrome plugin for RTL reading the blog posts:
 https://medium.com/@levyguy/chrome-plugin-for-rtl-support-on-medium-a80a28c25931
 Here you can find all my deep learning projects!
 
